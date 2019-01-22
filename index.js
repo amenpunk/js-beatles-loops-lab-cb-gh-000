@@ -10,7 +10,7 @@ function iLoveTheBeatles(number){
 
 function theBeatlesPlay (musicians,instruments){
     var emp = [];
-    for(let i =0; musicians.length;i++){
+    for(var i =0; musicians.length;i++){
           if(i=0){
            emp[i] = "John Lennon plays guitar";
         }
